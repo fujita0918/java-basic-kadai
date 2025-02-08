@@ -9,6 +9,9 @@ public class KatoExec_Chapter18 {
 		KatoIchiro_Chapter18 KatoIchiro = new KatoIchiro_Chapter18();
 		KatoHanako_Chapter KatoHanako = new KatoHanako_Chapter();
 		
+		KatoTaro.setGivenName();
+		KatoIchiro.setGivenName();
+		KatoHanako.setGivenName();
 		KatoTaro.execIntroduce();
 		KatoIchiro.execIntroduce();
 		KatoHanako.execIntroduce();
