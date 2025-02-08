@@ -13,9 +13,7 @@ public abstract class Kato_Chapter18 {
 	}
 	
 	public abstract void eachIntroduce();
-	public void setGivenName(String givenName) {
-		this.givenName = givenName;
-	}
+
 	
 	public void execIntroduce() {
 		commonIntroduce();
